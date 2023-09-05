@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML CSS/CSS.md",
+                "file": "Fun Projects/Todo List NetNinja.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d137073f567bb88d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS Events/Events, bubbling, delegation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f2a16b9e73c14e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Event delegation.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -60,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "position",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -77,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML CSS/CSS.md",
+                "file": "Event delegation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML CSS/CSS.md",
+                "file": "Event delegation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML CSS/CSS.md"
+                "file": "Event delegation.md"
               }
             }
           }
@@ -159,19 +183,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a2d352b9d40ad6d",
+  "active": "7f2a16b9e73c14e6",
   "lastOpenFiles": [
+    "JS Events/Events, bubbling, delegation.md",
+    "Event delegation.md",
+    "Fun Projects/Todo List NetNinja.md",
+    "async/http.md",
+    "async/Promise , Fetch, Async & Await.md",
+    "async/Browser API.md",
+    "Module and Package/Starting a new project.md",
+    "Local Storage/Storing item in browser.md",
+    "Todo List 100 days JS.md",
+    "HTML CSS/CSS.md",
     "README.md",
     "Smooth Scrolling & Sticky Nav.md",
     "HTML CSS/Position & Layout.md",
-    "HTML CSS/CSS.md",
     "Transform.md",
-    "async/Promise , Fetch, Async & Await.md",
-    "async/http.md",
     "Neat JS Tricks/Shuffling an array.md",
     "HTML CSS/Form.md",
     "Date Time/date.md",
-    "Fun Projects/Todo List.md",
     "HTML CSS/Pseudo Class - after.md",
     "Display.md",
     "Untitled.md",
@@ -179,7 +209,6 @@
     "HTML CSS/Screenshot 2023-08-07 at 21.08.10.png",
     "Neat JS Tricks",
     "HTML CSS/Screenshot 2023-08-07 at 21.06.29.png",
-    "async/Browser API.md",
     "HTML CSS/Semantic Tags.md",
     "HTML CSS/Classes.md",
     "HTML CSS/InnerText textContent innerHTML.md",
@@ -192,13 +221,8 @@
     "HTML CSS/Screenshot 2023-08-01 at 20.21.16.png",
     "REGEX/match.md",
     "REGEX",
-    "OOP JS/Rest,  Spread, Set, Symbol.md",
-    "Module and Package/Starting a new project.md",
     "HTML CSS",
     "Module and Package",
-    "OOP JS/Primitive & Reference Type.md",
-    "OOP JS/Prototypes.md",
-    "More ES6 features.md",
     "Firebase/Screenshot 2023-07-17 at 08.03.15.png",
     "Firebase",
     "OOP JS/Screenshot 2023-07-16 at 11.16.46.png",

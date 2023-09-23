@@ -1,10 +1,11 @@
-#selector #inline #block #margin #padding #zindex #focus #valid #invalid 
+#selector #inline #block #margin #padding #zindex #focus #valid #invalid #buttons
 
 
 ![[Screenshot 2023-08-01 at 20.22.46.png]]
 
 ## Inline elements
 sits next to each other for as far as it can go
+buttons is also inline
 ![[Screenshot 2023-08-01 at 20.35.48.png]]
 
 ## Block element 

@@ -13,31 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fun Projects/Todo List NetNinja.md",
+                "file": "async/Promise , Fetch, Async & Await.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d137073f567bb88d",
+            "id": "5e2857c7e2390c52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS Events/Events, bubbling, delegation.md",
+                "file": "HTML CSS/CSS.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7f2a16b9e73c14e6",
+            "id": "317d12bb54eab126",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Event delegation.md",
+                "file": "Custom Data Attribute.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be1cca323d30906a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transition.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Event delegation.md",
+                "file": "Transition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Event delegation.md",
+                "file": "Transition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Event delegation.md"
+                "file": "Transition.md"
               }
             }
           }
@@ -183,25 +195,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f2a16b9e73c14e6",
+  "active": "be1cca323d30906a",
   "lastOpenFiles": [
-    "JS Events/Events, bubbling, delegation.md",
-    "Event delegation.md",
-    "Fun Projects/Todo List NetNinja.md",
-    "async/http.md",
-    "async/Promise , Fetch, Async & Await.md",
-    "async/Browser API.md",
-    "Module and Package/Starting a new project.md",
-    "Local Storage/Storing item in browser.md",
-    "Todo List 100 days JS.md",
+    "Custom Data Attribute.md",
+    "Transition.md",
     "HTML CSS/CSS.md",
+    "HTML CSS/Classes.md",
+    "Todo List 100 days JS.md",
+    "Fun Projects/Todo List NetNinja.md",
+    "Event delegation.md",
     "README.md",
     "Smooth Scrolling & Sticky Nav.md",
     "HTML CSS/Position & Layout.md",
     "Transform.md",
+    "async/Promise , Fetch, Async & Await.md",
+    "async/http.md",
     "Neat JS Tricks/Shuffling an array.md",
     "HTML CSS/Form.md",
     "Date Time/date.md",
+    "Fun Projects/Todo List.md",
     "HTML CSS/Pseudo Class - after.md",
     "Display.md",
     "Untitled.md",
@@ -209,8 +221,8 @@
     "HTML CSS/Screenshot 2023-08-07 at 21.08.10.png",
     "Neat JS Tricks",
     "HTML CSS/Screenshot 2023-08-07 at 21.06.29.png",
+    "async/Browser API.md",
     "HTML CSS/Semantic Tags.md",
-    "HTML CSS/Classes.md",
     "HTML CSS/InnerText textContent innerHTML.md",
     "HTML CSS/Screenshot 2023-08-01 at 20.22.46.png",
     "HTML CSS/Modal & Dialog.md",

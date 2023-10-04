@@ -4,71 +4,79 @@
     "type": "split",
     "children": [
       {
-        "id": "b3aa740df9609a8e",
+        "id": "f0dd6d2f08463e5a",
         "type": "tabs",
         "children": [
           {
-            "id": "1a2d352b9d40ad6d",
+            "id": "7029a4dad63dc198",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "51d1367b35addef2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "async/Promise , Fetch, Async & Await.md",
+                "file": "5 Day Sprint/Step 0 Set The Stage Check list.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5e2857c7e2390c52",
+            "id": "347d7faf7363e6bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML CSS/CSS.md",
+                "file": "5 Day Sprint/Step 1 Checklist for Monday.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "317d12bb54eab126",
+            "id": "b60b1a1f1a2b40ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Custom Data Attribute.md",
+                "file": "5 Day Sprint/Step 3 Checklist for Wedneday.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "be1cca323d30906a",
+            "id": "b08ec37ed9691f49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transition.md",
+                "file": "5 Day Sprint/Step 4 Checklist for Thursday.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "54cafe7a95f1b64a",
+            "id": "5ecf00f657ed1fbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML CSS/Position & Layout.md",
+                "file": "5 Day Sprint/Step 4 Checklist for Thursday.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -97,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "block",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -134,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transition.md",
+                "file": "5 Day Sprint/Step 4 Checklist for Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transition.md",
+                "file": "5 Day Sprint/Step 4 Checklist for Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transition.md"
+                "file": "5 Day Sprint/Step 4 Checklist for Thursday.md"
               }
             }
           }
@@ -195,43 +203,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be1cca323d30906a",
+  "active": "5ecf00f657ed1fbb",
   "lastOpenFiles": [
-    "Custom Data Attribute.md",
-    "Transition.md",
-    "HTML CSS/CSS.md",
-    "HTML CSS/Classes.md",
-    "Todo List 100 days JS.md",
+    "5 Day Sprint/Step 3 Checklist for Wedneday.md",
+    "5 Day Sprint/Step 2 Checklist for Tuesday.md",
+    "5 Day Sprint/Step 1 Checklist for Monday.md",
+    "5 Day Sprint/Step 5 Checklist for Friday.md",
+    "5 Day Sprint/Step 4 Checklist for Thursday.md",
+    "5 Day Sprint/Step 0 Set The Stage Check list.md",
+    "5 Day Sprint",
     "Fun Projects/Todo List NetNinja.md",
-    "Event delegation.md",
-    "README.md",
-    "Smooth Scrolling & Sticky Nav.md",
+    "JS Events/Events, bubbling, delegation.md",
+    "HTML CSS/CSS.md",
+    "HTML CSS/Modal & Dialog.md",
     "HTML CSS/Position & Layout.md",
-    "Transform.md",
-    "async/Promise , Fetch, Async & Await.md",
+    "HTML CSS/Classes.md",
+    "Event delegation.md",
+    "Transition.md",
+    "Custom Data Attribute.md",
     "async/http.md",
+    "async/Promise , Fetch, Async & Await.md",
+    "async/Browser API.md",
+    "Module and Package/Starting a new project.md",
+    "Local Storage/Storing item in browser.md",
+    "Todo List 100 days JS.md",
+    "README.md",
+    "HTML CSS/Smooth Scrolling & Sticky Nav.md",
+    "Transform.md",
     "Neat JS Tricks/Shuffling an array.md",
     "HTML CSS/Form.md",
-    "Date Time/date.md",
-    "Fun Projects/Todo List.md",
-    "HTML CSS/Pseudo Class - after.md",
-    "Display.md",
-    "Untitled.md",
-    "JS Events/Form.md",
     "HTML CSS/Screenshot 2023-08-07 at 21.08.10.png",
     "Neat JS Tricks",
     "HTML CSS/Screenshot 2023-08-07 at 21.06.29.png",
-    "async/Browser API.md",
-    "HTML CSS/Semantic Tags.md",
-    "HTML CSS/InnerText textContent innerHTML.md",
     "HTML CSS/Screenshot 2023-08-01 at 20.22.46.png",
-    "HTML CSS/Modal & Dialog.md",
     "HTML CSS/Screenshot 2023-08-01 at 20.43.56.png",
     "HTML CSS/Screenshot 2023-08-01 at 20.43.16.png",
     "HTML CSS/Screenshot 2023-08-01 at 20.37.08.png",
     "HTML CSS/Screenshot 2023-08-01 at 20.35.48.png",
     "HTML CSS/Screenshot 2023-08-01 at 20.21.16.png",
-    "REGEX/match.md",
     "REGEX",
     "HTML CSS",
     "Module and Package",
@@ -242,7 +251,6 @@
     "Local Storage",
     "async",
     "Date Time",
-    "Array",
     "Untitled.canvas"
   ]
 }

@@ -4,24 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "e2fd3c3b13437def",
+        "id": "f0dd6d2f08463e5a",
         "type": "tabs",
         "children": [
           {
-            "id": "99d7ababa8356e1e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "eaa8a59098e25613",
+            "id": "7029a4dad63dc198",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 1.md",
+                "file": "Design of everyday things by Don Norman/Chapter 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00fd7b00edbba962",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "block",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 1.md",
+                "file": "Chapter 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 1.md",
+                "file": "Chapter 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 1.md"
+                "file": "Chapter 2.md"
               }
             }
           }
@@ -155,36 +159,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eaa8a59098e25613",
+  "active": "00fd7b00edbba962",
   "lastOpenFiles": [
+    "Design of everyday things by Don Norman/Chapter 1.md",
+    "Chapter 2.md",
+    "Design of everyday things by Don Norman",
     "Screenshot 2023-10-16 at 07.50.40.png",
-    "Chapter 1.md",
-    "The Design of Everyday Things",
-    "HTML CSS/Smooth Scrolling & Sticky Nav.md",
+    "5 Day Sprint/Step 0 Set The Stage Check list.md",
     "5 Day Sprint/Step 5 Checklist for Friday.md",
+    "JS Events/Events, bubbling, delegation.md",
+    "HTML CSS/Classes.md",
+    "5 Day Sprint/Step 1 Checklist for Monday.md",
     "5 Day Sprint/Step 4 Checklist for Thursday.md",
     "5 Day Sprint/Step 3 Checklist for Wedneday.md",
     "5 Day Sprint/Step 2 Checklist for Tuesday.md",
-    "5 Day Sprint/Step 1 Checklist for Monday.md",
-    "5 Day Sprint/Step 0 Set The Stage Check list.md",
     "5 Day Sprint",
-    "Custom Data Attribute.md",
-    "Transition.md",
-    "HTML CSS/CSS.md",
-    "HTML CSS/Classes.md",
-    "Todo List 100 days JS.md",
     "Fun Projects/Todo List NetNinja.md",
-    "Event delegation.md",
-    "README.md",
-    "Smooth Scrolling & Sticky Nav.md",
+    "HTML CSS/CSS.md",
+    "HTML CSS/Modal & Dialog.md",
     "HTML CSS/Position & Layout.md",
-    "Transform.md",
-    "async/Promise , Fetch, Async & Await.md",
+    "Event delegation.md",
+    "Transition.md",
+    "Custom Data Attribute.md",
     "async/http.md",
-    "Neat JS Tricks/Shuffling an array.md",
-    "HTML CSS/Form.md",
-    "Date Time/date.md",
-    "Fun Projects/Todo List.md",
+    "async/Promise , Fetch, Async & Await.md",
+    "async/Browser API.md",
+    "Module and Package/Starting a new project.md",
+    "Local Storage/Storing item in browser.md",
+    "Todo List 100 days JS.md",
+    "README.md",
+    "HTML CSS/Smooth Scrolling & Sticky Nav.md",
+    "Transform.md",
     "HTML CSS/Screenshot 2023-08-07 at 21.08.10.png",
     "Neat JS Tricks",
     "HTML CSS/Screenshot 2023-08-07 at 21.06.29.png",
@@ -199,7 +204,6 @@
     "Module and Package",
     "Firebase/Screenshot 2023-07-17 at 08.03.15.png",
     "Firebase",
-    "OOP JS/Screenshot 2023-07-16 at 11.16.46.png",
     "OOP JS",
     "Local Storage",
     "async",

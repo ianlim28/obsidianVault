@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 2.md",
+                "file": "Design of everyday things by Don Norman/Chapter 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2.md",
+                "file": "Design of everyday things by Don Norman/Chapter 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2.md",
+                "file": "Design of everyday things by Don Norman/Chapter 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2.md"
+                "file": "Design of everyday things by Don Norman/Chapter 2.md"
               }
             }
           }
@@ -159,10 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00fd7b00edbba962",
+  "active": "dd9cca4ae6e99293",
   "lastOpenFiles": [
     "Design of everyday things by Don Norman/Chapter 1.md",
-    "Chapter 2.md",
+    "Design of everyday things by Don Norman/Chapter 2.md",
     "Design of everyday things by Don Norman",
     "Screenshot 2023-10-16 at 07.50.40.png",
     "5 Day Sprint/Step 0 Set The Stage Check list.md",

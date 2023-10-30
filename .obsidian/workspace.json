@@ -30,9 +30,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b0e7372823f6ae1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design of everyday things by Don Norman/Chapter 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3df007f27e5cb58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d5d228cb85d1fe9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design of everyday things by Don Norman/Chapter 2.md",
+                "file": "Chapter 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design of everyday things by Don Norman/Chapter 2.md",
+                "file": "Chapter 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design of everyday things by Don Norman/Chapter 2.md"
+                "file": "Chapter 6.md"
               }
             }
           }
@@ -159,8 +195,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd9cca4ae6e99293",
+  "active": "2d5d228cb85d1fe9",
   "lastOpenFiles": [
+    "Chapter 5.md",
+    "Chapter 6.md",
+    "Design of everyday things by Don Norman/Chapter 4.md",
     "Design of everyday things by Don Norman/Chapter 1.md",
     "Design of everyday things by Don Norman/Chapter 2.md",
     "Design of everyday things by Don Norman",
@@ -187,9 +226,6 @@
     "Module and Package/Starting a new project.md",
     "Local Storage/Storing item in browser.md",
     "Todo List 100 days JS.md",
-    "README.md",
-    "HTML CSS/Smooth Scrolling & Sticky Nav.md",
-    "Transform.md",
     "HTML CSS/Screenshot 2023-08-07 at 21.08.10.png",
     "Neat JS Tricks",
     "HTML CSS/Screenshot 2023-08-07 at 21.06.29.png",

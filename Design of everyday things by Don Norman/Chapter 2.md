@@ -1,4 +1,4 @@
- The Psychology of Everyday Actions
+<h2> The Psychology of Everyday Actions </h2>
 
 This chapter delves into the psychology behind how people interact with the designed world and how designers can create user-friendly products by understanding human cognition and behavior. The key takeaways are:
 

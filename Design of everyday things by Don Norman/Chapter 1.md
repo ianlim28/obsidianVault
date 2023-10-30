@@ -1,3 +1,5 @@
+<h2>The pyschopathology of everyday things</h2>
+
 1. **Design Critique**: Norman opens the chapter by discussing the frustration and difficulties people encounter when trying to use common objects, such as doors, stovetops, or VCRs. He points out that users often blame themselves for their difficulties instead of recognizing that poorly designed objects are the root cause.
 
 2. **The Gulf of Evaluation**: Norman introduces the concept of the "Gulf of Evaluation," which refers to the cognitive gap between the user's understanding of an object's state and the feedback provided by the object. When this gap is too large, users struggle to understand how to interact with the object effectively.

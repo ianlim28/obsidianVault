@@ -4,71 +4,79 @@
     "type": "split",
     "children": [
       {
-        "id": "f0dd6d2f08463e5a",
+        "id": "83ef5d148341a2f4",
         "type": "tabs",
         "children": [
           {
-            "id": "7029a4dad63dc198",
+            "id": "de2e504177a89ac1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design of everyday things by Don Norman/Chapter 1.md",
+                "file": "async/Promise , Fetch, Async & Await.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "00fd7b00edbba962",
+            "id": "9826323938f50bd7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
+          },
+          {
+            "id": "e9bf2139a2120f26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design of everyday things by Don Norman/Chapter 2.md",
+                "file": "Naming Convention in JS.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b0e7372823f6ae1f",
+            "id": "bdf526b9b1a682f1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          },
+          {
+            "id": "3c8e5100393875c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design of everyday things by Don Norman/Chapter 4.md",
+                "file": "Product Development/LinkedIn Product Development Tips.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f3df007f27e5cb58",
+            "id": "f0d85ad44ddbb110",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d5d228cb85d1fe9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 6.md",
+                "file": "Product Management 101.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -97,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "block",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -134,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 6.md",
+                "file": "Product Management 101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 6.md",
+                "file": "Product Management 101.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 6.md"
+                "file": "Product Management 101.md"
               }
             }
           }
@@ -195,13 +203,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d5d228cb85d1fe9",
+  "active": "f0d85ad44ddbb110",
   "lastOpenFiles": [
-    "Chapter 5.md",
-    "Chapter 6.md",
-    "Design of everyday things by Don Norman/Chapter 4.md",
+    "Screenshot 2024-04-21 at 14.12.08.png",
+    "Product Development/LinkedIn Product Development Tips.md",
+    "Product Management 101.md",
+    "How to prompt.md",
+    "Untitled",
+    "Product Development",
+    "HTML CSS/CSS.md",
+    "Date Time/Digital Clock.md",
+    "Naming Convention in JS.md",
+    "Redux/Why slice in redux?.md",
+    "Array/reduce.md",
+    "Redux",
+    "ChatGPT",
     "Design of everyday things by Don Norman/Chapter 1.md",
     "Design of everyday things by Don Norman/Chapter 2.md",
+    "Design of everyday things by Don Norman/Chapter 4.md",
+    "Design of everyday things by Don Norman/Chapter 5.md",
+    "Design of everyday things by Don Norman/Chapter 6.md",
     "Design of everyday things by Don Norman",
     "Screenshot 2023-10-16 at 07.50.40.png",
     "5 Day Sprint/Step 0 Set The Stage Check list.md",
@@ -214,18 +235,9 @@
     "5 Day Sprint/Step 2 Checklist for Tuesday.md",
     "5 Day Sprint",
     "Fun Projects/Todo List NetNinja.md",
-    "HTML CSS/CSS.md",
     "HTML CSS/Modal & Dialog.md",
     "HTML CSS/Position & Layout.md",
     "Event delegation.md",
-    "Transition.md",
-    "Custom Data Attribute.md",
-    "async/http.md",
-    "async/Promise , Fetch, Async & Await.md",
-    "async/Browser API.md",
-    "Module and Package/Starting a new project.md",
-    "Local Storage/Storing item in browser.md",
-    "Todo List 100 days JS.md",
     "HTML CSS/Screenshot 2023-08-07 at 21.08.10.png",
     "Neat JS Tricks",
     "HTML CSS/Screenshot 2023-08-07 at 21.06.29.png",
@@ -239,10 +251,6 @@
     "HTML CSS",
     "Module and Package",
     "Firebase/Screenshot 2023-07-17 at 08.03.15.png",
-    "Firebase",
-    "OOP JS",
-    "Local Storage",
-    "async",
     "Untitled.canvas"
   ]
 }

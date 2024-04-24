@@ -8,50 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "de2e504177a89ac1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "async/Promise , Fetch, Async & Await.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9826323938f50bd7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
-          },
-          {
-            "id": "e9bf2139a2120f26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Naming Convention in JS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdf526b9b1a682f1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
-          },
-          {
             "id": "3c8e5100393875c7",
             "type": "leaf",
             "state": {
@@ -69,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product Management 101.md",
+                "file": "Product Development/Product Prioritization - MOSCOW RICE KANO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0c4940f8f864702",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Product Development/Product Lifecycle Stages.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f1cbfc163f18f72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Product Development/Customer Development phases.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Product Management 101.md",
+                "file": "Product Development/Customer Development phases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Product Management 101.md",
+                "file": "Product Development/Customer Development phases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Product Management 101.md"
+                "file": "Product Development/Customer Development phases.md"
               }
             }
           }
@@ -203,11 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0d85ad44ddbb110",
+  "active": "dd9cca4ae6e99293",
   "lastOpenFiles": [
-    "Screenshot 2024-04-21 at 14.12.08.png",
+    "Product Development/Product Lifecycle Stages.md",
+    "Product Development/Customer Development phases.md",
+    "Product Development/Product Prioritization - MOSCOW RICE KANO.md",
     "Product Development/LinkedIn Product Development Tips.md",
-    "Product Management 101.md",
+    "Screenshot 2024-04-21 at 14.12.08.png",
     "How to prompt.md",
     "Untitled",
     "Product Development",
@@ -237,7 +219,6 @@
     "Fun Projects/Todo List NetNinja.md",
     "HTML CSS/Modal & Dialog.md",
     "HTML CSS/Position & Layout.md",
-    "Event delegation.md",
     "HTML CSS/Screenshot 2023-08-07 at 21.08.10.png",
     "Neat JS Tricks",
     "HTML CSS/Screenshot 2023-08-07 at 21.06.29.png",
@@ -250,7 +231,6 @@
     "REGEX",
     "HTML CSS",
     "Module and Package",
-    "Firebase/Screenshot 2023-07-17 at 08.03.15.png",
     "Untitled.canvas"
   ]
 }

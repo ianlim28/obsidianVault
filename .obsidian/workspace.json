@@ -54,9 +54,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3f31b9722c3c0b5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Product Development/Designing and running experiments.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69f673031314e384",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conceptualising the solution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce6518f9afe38120",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Product Development/Metrics for Product Managers - Defining success and measuring results.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9bee7f5985b17a49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Building the Product - Project Management for PMs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -122,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Product Development/Customer Development phases.md",
+                "file": "Building the Product - Project Management for PMs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Product Development/Customer Development phases.md",
+                "file": "Building the Product - Project Management for PMs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Product Development/Customer Development phases.md"
+                "file": "Building the Product - Project Management for PMs.md"
               }
             }
           }
@@ -183,10 +231,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd9cca4ae6e99293",
+  "active": "9bee7f5985b17a49",
   "lastOpenFiles": [
-    "Product Development/Product Lifecycle Stages.md",
+    "Product Development/Metrics for Product Managers - Defining success and measuring results.md",
+    "Building the Product - Project Management for PMs.md",
+    "Conceptualising the solution.md",
+    "Product Development/Designing and running experiments.md",
     "Product Development/Customer Development phases.md",
+    "Screenshot 2024-04-26 at 07.29.31.png",
+    "Product Development/Product Lifecycle Stages.md",
     "Product Development/Product Prioritization - MOSCOW RICE KANO.md",
     "Product Development/LinkedIn Product Development Tips.md",
     "Screenshot 2024-04-21 at 14.12.08.png",
@@ -214,11 +267,7 @@
     "5 Day Sprint/Step 1 Checklist for Monday.md",
     "5 Day Sprint/Step 4 Checklist for Thursday.md",
     "5 Day Sprint/Step 3 Checklist for Wedneday.md",
-    "5 Day Sprint/Step 2 Checklist for Tuesday.md",
     "5 Day Sprint",
-    "Fun Projects/Todo List NetNinja.md",
-    "HTML CSS/Modal & Dialog.md",
-    "HTML CSS/Position & Layout.md",
     "HTML CSS/Screenshot 2023-08-07 at 21.08.10.png",
     "Neat JS Tricks",
     "HTML CSS/Screenshot 2023-08-07 at 21.06.29.png",
@@ -227,7 +276,6 @@
     "HTML CSS/Screenshot 2023-08-01 at 20.43.16.png",
     "HTML CSS/Screenshot 2023-08-01 at 20.37.08.png",
     "HTML CSS/Screenshot 2023-08-01 at 20.35.48.png",
-    "HTML CSS/Screenshot 2023-08-01 at 20.21.16.png",
     "REGEX",
     "HTML CSS",
     "Module and Package",

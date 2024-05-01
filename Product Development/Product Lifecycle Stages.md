@@ -139,6 +139,10 @@ Application of Market and Competitive Analysis
 - Strategic Decision Making: Choose which market segments to enter and which product features to prioritize.
 - Monitoring Trends: Regularly update your analysis to stay ahead of market shifts and emerging competitors. 
 
+
+- [Market size estimation](https://www.planprojections.com/projections/market-size-estimation/#google_vignette)
+- [Quick and dirty](https://productmanagementtips.com/2012/04/21/market-sizing-quick-and-dirty-techniques/)
+
 ------------------------------------------------------
 ### What is a Feature Table?
 

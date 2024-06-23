@@ -1,3 +1,42 @@
+### Product development hierarchy
+Goals > Initiatives > Releases > Features > Epics > User stories > Tasks > Subtasks
+
+**Goals**
+- what you want to achieve to meet your vision (short term or long term)
+- example: "increase the user base by 10% by next year"
+
+**Initiatives**
+- high-level efforts that will help you achieve your goals 
+- example: "translate our app into 3 more languages"
+
+**Releases**
+- a release or delivery of a new customer experience at a high level
+- example: the release of our app with the 3 new language translations
+
+**Features**
+- one or several sets of capabilities delivered to the end user
+- example: the ability for the user to change the language the app is displayed in
+
+**Epics**
+- related bodies of work which can not be completed in 1 week, and or will take 1 sprint or more to complete
+- example: "prepare the interface to display the long German words"
+
+User stories / Tasks
+- a set of things to be done that deliver user value and come together to form the completion of an epic
+- example: prepare our back-end systems to handle inputs from 3 more different character types in the new languages
+
+User stories are formatted like this: "As a USER, i want to DO X THING, so that i can SEE Y THING"
+
+**Subtasks**
+- one or many things that need to be done to complete a user story or higher level task
+- they are usually very granular and technical in nature
+
+You must complete the smaller things in order to complete the larger things up the chain 
+
+![[Screenshot 2024-05-03 at 08.44.33.png]]
+
+
+
 ### Introduction to Epics
 
 **Background:** Epics are fundamental components in agile development methodologies, serving as a high-level framework to organize and prioritize the development process. They stem from the overarching vision of the company, which is translated into actionable goals and metrics.
@@ -92,6 +131,20 @@ User stories and acceptance criteria are essential tools in Agile software devel
 - **Tracking:** User stories are typically maintained within a project management tool and tracked through statuses such as "To Do," "In Progress," and "Done."
 - **Visibility and Collaboration:** This visibility allows the entire team to see what everyone is working on and to collaborate effectively, ensuring that all features align with user needs.
 
+==**What’s critical is that each story:**==
+- can stand on its own; if it has dependencies, combine them into one story
+- can be delivered to QA and tested
+- can be shipped to production (even if it has to be paddocked in some way)
+
+*You Are As Smart As Your Stories*
+> Stories are the building blocks of product development. In the aggregate, the stories you ship are a representation of your organisation’s strategy. A hundred micro-errors at the story level lead to massive organisational lethargy. Stories define the molecular structure of your company’s leanness.
+
+>Your product managers and engineers need to be cutthroat in their decisions about what to build and what not to build. Every feature on your roadmap could be built in radically different amounts of time. You could spend a year building out a new search experience–or a month. The stories you write about this feature will define this difference. Everything is about opportunity cost; yes, this story will make this feature better, but what else could we be making in this same time period?
+
+>The more specific your stories are, the more they will help engineers to understand the intended scope of the project. This is generally a good thing. However, hopefully your engineers are creative, smart, independent thinkers with a deep interest in the product they are making–so when stories are overwritten it can feel wasteful and demoralising. This is a fine balance.
+
+
+
 ### Understanding Acceptance Criteria
 
 **What Are Acceptance Criteria?** Acceptance criteria consist of a set of predefined requirements that must be met for a user story to be considered complete. They are used to confirm when a task has been completed and to ensure that the software meets business goals and user requirements.
@@ -117,4 +170,111 @@ User stories and acceptance criteria are essential tools in Agile software devel
 
 ### Conclusion
 User stories and acceptance criteria are fundamental in Agile development, serving as the backbone for understanding user needs and ensuring product functionality aligns with those needs. By effectively using these tools, teams can enhance communication, streamline development processes, and deliver high-quality products that meet or exceed user expectations.
+
+--------------------------------------------------------
+### Estimations and Velocity in Software Development
+
+**Challenges in Software Estimation:**
+- Software estimation is inherently challenging due to the diverse approaches engineers use in different companies. These can include variations in programming languages, coding styles, and ever-evolving technologies and methods. Such diversity makes it difficult to standardize estimation processes across different teams or projects.
+
+**Understanding Velocity and Story Points:**
+- **Story Points:** This is a technique used to measure the difficulty of tasks within a project. It involves a rating system that is universally understood within the company. Story points assess the effort required, complexity, and any risks or uncertainties involved in completing a task.
+    
+- **Velocity:** Velocity is a metric that quantifies the amount of work a team can complete in a specific time frame, typically measured over the course of a sprint (e.g., two weeks). It is calculated based on the number of story points the team completes during the sprint.
+    
+
+**Practical Example of Calculating Velocity:**
+- **Scenario:** Consider a sprint where the team tackles five tasks.
+- **Completion:** Out of these, three tasks are completed within the sprint.
+- **Difficulty Rating:** Each completed task was challenging and rated 5 on a scale of 1 to 5.
+- **Calculation:** The velocity for this sprint is the sum of the story points for the completed tasks: 5+5+5=15.
+
+**Interpreting Velocity:**
+- The velocity figure (15 in this example) represents the team’s capacity to handle work within a sprint. It helps in planning future sprints more accurately by providing a realistic picture of the team’s work rate and capacity.
+
+**Using Velocity for Future Planning:**
+- **Consistency:** Over several sprints, velocity can stabilize and serve as a reliable metric for planning and adjusting workloads.
+- **Forecasting:** Teams can use historical velocity data to predict how much work they can realistically undertake in future sprints, aiding in better sprint planning and workload management.
+
+**Benefits of Measuring Velocity:**
+- **Predictability:** Helps teams and stakeholders set realistic expectations about deliverables and timelines.
+- **Efficiency:** Encourages continuous improvement in work processes and team coordination.
+- **Adaptability:** Allows teams to adjust their work strategies based on actual performance versus planned estimates.
+**[Engineering flow: planning for high velocity sprints](https://www.fastcompany.com/3015928/engineering-flow-planning-for-high-velocity-sprints-part-3)**
+
+### Roadmapping
+[10 tips for creating an agile product roadmap](https://www.romanpichler.com/blog/10-tips-creating-agile-product-roadmap/)
+[Atlassian roadmaps: build, share, use, evolve](https://www.atlassian.com/agile/product-management/roadmaps)
+
+### Prioritization Techniques for Product Managers
+
+As a product manager, effective prioritization is crucial in managing the development cycle efficiently. Here’s a structured look at several prioritization methods:
+
+#### 1. **Assumption Testing**
+
+**Overview:**
+- Focuses on validating assumptions to minimize risks early in the development process.
+
+**Process:**
+- **Identify and List Assumptions:** Write down all assumptions related to the project.
+- **Risk Assessment:** Assign a risk value to each assumption (1 being the riskiest, 10 being the least risky).
+- **Importance Rating:** Rate the importance of testing each assumption (10 indicating very important).
+- **Calculate Priority Score:** Add the risk and importance scores for each assumption.
+- **Prioritization:** Sort the assumptions by their total scores, starting with the highest (indicating high risk and high importance).
+
+#### 2. **The BUC Method**
+
+**Overview:**
+- Balances business benefits, user benefits, and costs to determine priority.
+
+**Process:**
+- **Score Dimensions:**
+    - **Business Benefits:** Rate how much the task will benefit the business on a scale of 1 to 10.
+    - **User Benefits:** Rate the potential benefits to the users on a scale of 1 to 10.
+    - **Cost:** Rate the cost implications of implementing the task on a scale of 1 to 10.
+- **Calculate Net Score:** Add the scores for business and user benefits, then subtract the cost.
+- **Prioritization:** List tasks in descending order of their net scores, with tasks having the highest scores prioritized.
+
+#### 3. **The MOSCOW Method**
+
+**Overview:**
+- Categorizes tasks into four buckets based on necessity: Must, Should, Could, and Won't.
+
+**Process:**
+- **Categorize Tasks:**
+    - **Must Have:** Tasks that are essential for the launch or critical functionality.
+    - **Should Have:** Important but not vital tasks, should be included if possible.
+    - **Could Have:** Desirable tasks that are not necessary; can be included if it enhances the product without causing delays.
+    - **Won't Have:** Tasks that are least critical and can be excluded from the current scope.
+- **Execution Order:** Start with 'Must Have' tasks to ensure critical functionalities are developed first.
+
+### Tips for Effective Prioritization
+- **Regular Reviews:** Prioritization is an ongoing process. Regularly review and adjust priorities as new information becomes available or as project dynamics change.
+- **Stakeholder Alignment:** Ensure that priorities align with broader business goals and are communicated clearly to all stakeholders.
+- **Flexibility:** Be prepared to adapt your prioritization as project requirements and external conditions evolve.
+
+### Conclusion
+
+Each prioritization method offers different advantages and can be suited for various scenarios depending on the project's specific needs. Product managers should choose the method that best aligns with their strategic goals and project requirements, ensuring that resources are allocated efficiently to maximize product success.
+
+
+Communication
+[The introverted product manager](https://www.productplan.com/learn/the-introverted-product-manager/)
+[The product manager Vs The engineering manager](https://www.huffpost.com/entry/the-product-manager-vs-th_b_7733156)
+[Product Manager: 5 ways you can make the life of an engineer better](https://mtp2017.wpenginepowered.com/product-managers-5-ways-you-can-make-an-engineers-job-easier/)
+[Can a product manager be effective without product design skills?](https://www.quora.com/Can-a-product-manager-be-effective-without-product-design-skills)
+[4 design skills every PM should have](https://mtp2017.wpenginepowered.com/4-design-skills-every-product-manager-should-have/)
+[How to Communicate Effectively at Work With Your Boss](https://blog.hubspot.com/marketing/communicating-effectively-with-your-boss)
+[Front end Vs Back end](https://learn.onemonth.com/frontend-vs-backend-developers/)
+
+### Product vision & Strategy
+1. You can't create any good products or lead any company well without having clear, defined, transparent goals
+2. You can't have good goals without first having a product/company vision
+3. You can't have a good product/company vision without having a global vision
+4. To have the best global vision possible, you've got to be as knowledgeable as possibe about your industry, technology, global events, and trends
+5. Re-assess your global and company vision on a regular basis
+6. Strategy isn't limited to one part of the development hierarchy 
+
+
+
 

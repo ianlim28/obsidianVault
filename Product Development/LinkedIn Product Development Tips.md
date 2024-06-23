@@ -39,13 +39,12 @@
 - **Imagining Major Changes:** Consider significant product updates and the strategic objectives they support.
 - **Effort Estimation:** Assess the development capacity, considering time for bug fixes, maintenance, and new development.
 
-**Estimation Breakdown:**
+==**Estimation Breakdown:**==
 
 - 25% bug fixing.
 - 20% maintenance.
 - 20% engineering.
 - 35% development capacity.
-
 
 Use best estimates, not mandatory to stick to
 

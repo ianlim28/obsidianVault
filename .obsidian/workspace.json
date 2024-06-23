@@ -4,59 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "83ef5d148341a2f4",
+        "id": "a93928e093e81076",
         "type": "tabs",
         "children": [
           {
-            "id": "3c8e5100393875c7",
+            "id": "ed963491537c2747",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product Development/LinkedIn Product Development Tips.md",
+                "file": "Product Development/Building the Product - Project Management for PMs.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f0d85ad44ddbb110",
+            "id": "c6585cde8f175f5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product Development/Product Prioritization - MOSCOW RICE KANO.md",
+                "file": "Product Development/Advanced Metrics for Product Mangers.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a0c4940f8f864702",
+            "id": "d69b3a88845c7a42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product Development/Product Lifecycle Stages.md",
+                "file": "Product Development/Building the Product - Project Management for PMs.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2f1cbfc163f18f72",
+            "id": "5ea09903e31f7e9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product Development/Customer Development phases.md",
+                "file": "Business Case - SME survival.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3f31b9722c3c0b5b",
+            "id": "22536b25f73d09e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -68,36 +68,36 @@
             }
           },
           {
-            "id": "69f673031314e384",
+            "id": "3a4f2fad5af1b8fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conceptualising the solution.md",
+                "file": "APIs.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ce6518f9afe38120",
+            "id": "c5f185b167b02097",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product Development/Metrics for Product Managers - Defining success and measuring results.md",
+                "file": "Product Development/Product Prioritization - MOSCOW RICE KANO.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9bee7f5985b17a49",
+            "id": "65f47479f01e6e22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Building the Product - Project Management for PMs.md",
+                "file": "PM Interviews/Interviewing Tips for a product manager role.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 347.5
   },
   "right": {
     "id": "afc6fac0e6b3738d",
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Building the Product - Project Management for PMs.md",
+                "file": "PM Interviews/Interviewing Tips for a product manager role.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Building the Product - Project Management for PMs.md",
+                "file": "PM Interviews/Interviewing Tips for a product manager role.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Building the Product - Project Management for PMs.md"
+                "file": "PM Interviews/Interviewing Tips for a product manager role.md"
               }
             }
           }
@@ -231,54 +231,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9bee7f5985b17a49",
+  "active": "65f47479f01e6e22",
   "lastOpenFiles": [
-    "Product Development/Metrics for Product Managers - Defining success and measuring results.md",
-    "Building the Product - Project Management for PMs.md",
-    "Conceptualising the solution.md",
-    "Product Development/Designing and running experiments.md",
-    "Product Development/Customer Development phases.md",
-    "Screenshot 2024-04-26 at 07.29.31.png",
-    "Product Development/Product Lifecycle Stages.md",
+    "Screenshot 2024-06-21 at 07.53.26 1.png",
+    "Screenshot 2024-06-21 at 07.53.26.png",
     "Product Development/Product Prioritization - MOSCOW RICE KANO.md",
+    "async/Browser API.md",
+    "PM Interviews/Interviewing Tips for a product manager role.md",
+    "Screenshot 2024-06-18 at 08.16.22.png",
+    "Product Development/Designing and running experiments.md",
+    "Product Development/Metrics for Product Managers - Defining success and measuring results.md",
     "Product Development/LinkedIn Product Development Tips.md",
+    "Product Development/Customer Development phases.md",
+    "Product Development/Conceptualising the solution.md",
+    "Product Development/Building the Product - Project Management for PMs.md",
+    "Product Development/Advanced Metrics for Product Mangers.md",
+    "JS Events/Events, bubbling, delegation.md",
+    "PM Interviews/Root Cause Analysis.md",
+    "Product Development/Product Lifecycle Stages.md",
+    "How to prepare for PM interviews with Top Tech Companies.md",
+    "PM Interviews",
+    "APIs.md",
+    "API questions.md",
+    "Tech",
+    "Product Management Articles.md",
+    "Business Case - SME survival.md",
+    "Event delegation.md",
+    "Display.md",
+    "Custom Data Attribute.md",
+    "Screenshot 2024-05-03 at 08.44.33.png",
+    "Screenshot 2024-04-26 at 07.29.31.png",
     "Screenshot 2024-04-21 at 14.12.08.png",
+    "Screenshot 2023-10-16 at 07.50.40.png",
+    "Metrics by Industry.md",
     "How to prompt.md",
-    "Untitled",
     "Product Development",
     "HTML CSS/CSS.md",
     "Date Time/Digital Clock.md",
-    "Naming Convention in JS.md",
-    "Redux/Why slice in redux?.md",
-    "Array/reduce.md",
     "Redux",
     "ChatGPT",
-    "Design of everyday things by Don Norman/Chapter 1.md",
-    "Design of everyday things by Don Norman/Chapter 2.md",
-    "Design of everyday things by Don Norman/Chapter 4.md",
-    "Design of everyday things by Don Norman/Chapter 5.md",
-    "Design of everyday things by Don Norman/Chapter 6.md",
     "Design of everyday things by Don Norman",
-    "Screenshot 2023-10-16 at 07.50.40.png",
-    "5 Day Sprint/Step 0 Set The Stage Check list.md",
-    "5 Day Sprint/Step 5 Checklist for Friday.md",
-    "JS Events/Events, bubbling, delegation.md",
-    "HTML CSS/Classes.md",
-    "5 Day Sprint/Step 1 Checklist for Monday.md",
-    "5 Day Sprint/Step 4 Checklist for Thursday.md",
-    "5 Day Sprint/Step 3 Checklist for Wedneday.md",
     "5 Day Sprint",
     "HTML CSS/Screenshot 2023-08-07 at 21.08.10.png",
     "Neat JS Tricks",
     "HTML CSS/Screenshot 2023-08-07 at 21.06.29.png",
     "HTML CSS/Screenshot 2023-08-01 at 20.22.46.png",
     "HTML CSS/Screenshot 2023-08-01 at 20.43.56.png",
-    "HTML CSS/Screenshot 2023-08-01 at 20.43.16.png",
-    "HTML CSS/Screenshot 2023-08-01 at 20.37.08.png",
-    "HTML CSS/Screenshot 2023-08-01 at 20.35.48.png",
     "REGEX",
     "HTML CSS",
-    "Module and Package",
     "Untitled.canvas"
   ]
 }

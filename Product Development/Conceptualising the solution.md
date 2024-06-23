@@ -1,6 +1,6 @@
 ### Wireframes, Mockups, and Prototypes: Understanding the Differences
 
-**1. Wireframes**
+==**1. Wireframes**==
 **Purpose:**
 - Wireframes are created to establish the basic structure of a page or application before visual elements and content are added.
 
@@ -13,7 +13,7 @@
 - Begin by drawing the general layout and structure of the application or website.
 - Commonly used to facilitate discussions between designers, developers, and stakeholders to agree on the basic structure before moving on to more detailed designs.
 
-**2. Mockups**
+==**2. Mockups**==
 **Purpose:**
 - Mockups provide a visual representation of the product’s appearance, presenting how the final application or website will look with regard to colors, typography, and other design elements.
 
@@ -25,12 +25,11 @@
 **Tools:**
 - Often created using tools like Photoshop, Sketch, Illustrator, Axure, and UXPin, which allow designers to add detailed aesthetics and textures.
 
-**3. Prototypes**
+==**3. Prototypes**==
 **Purpose:**
 - Prototypes are developed to simulate user interactions with the application or website, allowing for the testing of usability and functionality.
 
 **Characteristics:**
-
 - **Interactive:** Unlike mockups, prototypes allow users to experience and interact with the interface.
 - **High Fidelity:** Often looks very close to the final product, including animations and interactions.
 - **Usability Testing:** Can be used to conduct user tests to identify problems in user flows before the final product is developed.

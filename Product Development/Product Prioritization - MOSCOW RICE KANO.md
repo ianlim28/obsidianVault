@@ -1,3 +1,67 @@
+### Roadmapping
+[10 tips for creating an agile product roadmap](https://www.romanpichler.com/blog/10-tips-creating-agile-product-roadmap/)
+[Atlassian roadmaps: build, share, use, evolve](https://www.atlassian.com/agile/product-management/roadmaps)
+
+### Prioritization Techniques for Product Managers
+#assumptiontesting #BUC #MOSCOW #RICE #KANO
+As a product manager, effective prioritization is crucial in managing the development cycle efficiently. Here’s a structured look at several prioritization methods:
+
+#### 1. **Assumption Testing**
+
+**Overview:**
+- Focuses on validating assumptions to minimize risks early in the development process.
+
+**Process:**
+- **Identify and List Assumptions:** Write down all assumptions related to the project.
+- **Risk Assessment:** Assign a risk value to each assumption (1 being the riskiest, 10 being the least risky).
+- **Importance Rating:** Rate the importance of testing each assumption (10 indicating very important).
+- **Calculate Priority Score:** Add the risk and importance scores for each assumption.
+- **Prioritization:** Sort the assumptions by their total scores, starting with the highest (indicating high risk and high importance).
+
+#### 2. **The BUC Method**
+
+**Overview:**
+- Balances business benefits, user benefits, and costs to determine priority.
+
+**Process:**
+- **Score Dimensions:**
+    - **Business Benefits:** Rate how much the task will benefit the business on a scale of 1 to 10.
+    - **User Benefits:** Rate the potential benefits to the users on a scale of 1 to 10.
+    - **Cost:** Rate the cost implications of implementing the task on a scale of 1 to 10.
+- **Calculate Net Score:** Add the scores for business and user benefits, then subtract the cost.
+- **Prioritization:** List tasks in descending order of their net scores, with tasks having the highest scores prioritized.
+
+#### 3. **The MOSCOW Method**
+
+**Overview:**
+- Categorizes tasks into four buckets based on necessity: Must, Should, Could, and Won't.
+
+**Process:**
+- **Categorize Tasks:**
+    - **Must Have:** Tasks that are essential for the launch or critical functionality.
+    - **Should Have:** Important but not vital tasks, should be included if possible.
+    - **Could Have:** Desirable tasks that are not necessary; can be included if it enhances the product without causing delays.
+    - **Won't Have:** Tasks that are least critical and can be excluded from the current scope.
+- **Execution Order:** Start with 'Must Have' tasks to ensure critical functionalities are developed first.
+
+### Tips for Effective Prioritization
+- **Regular Reviews:** Prioritization is an ongoing process. Regularly review and adjust priorities as new information becomes available or as project dynamics change.
+- **Stakeholder Alignment:** Ensure that priorities align with broader business goals and are communicated clearly to all stakeholders.
+- **Flexibility:** Be prepared to adapt your prioritization as project requirements and external conditions evolve.
+
+### Conclusion
+
+Each prioritization method offers different advantages and can be suited for various scenarios depending on the project's specific needs. Product managers should choose the method that best aligns with their strategic goals and project requirements, ensuring that resources are allocated efficiently to maximize product success.
+
+
+Communication
+[The introverted product manager](https://www.productplan.com/learn/the-introverted-product-manager/)
+[The product manager Vs The engineering manager](https://www.huffpost.com/entry/the-product-manager-vs-th_b_7733156)
+[Product Manager: 5 ways you can make the life of an engineer better](https://mtp2017.wpenginepowered.com/product-managers-5-ways-you-can-make-an-engineers-job-easier/)
+[Can a product manager be effective without product design skills?](https://www.quora.com/Can-a-product-manager-be-effective-without-product-design-skills)
+[4 design skills every PM should have](https://mtp2017.wpenginepowered.com/4-design-skills-every-product-manager-should-have/)
+[How to Communicate Effectively at Work With Your Boss](https://blog.hubspot.com/marketing/communicating-effectively-with-your-boss)
+[Front end Vs Back end](https://learn.onemonth.com/frontend-vs-backend-developers/)
 **![](https://lh7-us.googleusercontent.com/NmOTj_pgeXl8VaaXrmRyRxMJ-O0BOxG5cL0MafyZQ53QyTA_7hNzDNQTKi91Txa8vgJNRgT_N4yBeMK99ExE7NQnRq7KnTtwFu36MeHq-YL3wvm8gWSDpSmU8solVfpNy4jbq008l6aNfBtvadyqLlk)**
 
 **![](https://lh7-us.googleusercontent.com/ALJ0KOEswAr3MM18e8pnLrtn2kQRqiLtvGB2lWTiRHSAgWJIx7MhSW7XwGQhLhZoIUrkrV-jJo3mT3bEC6J6DFrzNo1OjY-vHJqABoIO1iWT_XpS8lhaHcYi8xShcqmDtoCB5x5nmC-UB2sC0CeiDqM)**
@@ -59,7 +123,7 @@ The RICE scoring model is a framework used in product management to prioritize f
 
 The RICE score is calculated by the formula:
 
-RICE Score=(Reach×Impact×ConfidenceEffort)RICE Score=(EffortReach×Impact×Confidence​)
+RICE Score=(Reach×Impact×ConfidenceEffort)
 
 ### Benefits of Using RICE
 
@@ -156,8 +220,7 @@ In summary, the Kano Model offers a dynamic approach to understanding customer n
 • **L**: Redesigning a major component of the UI.
 • **XL**: Migrating the system to a new architecture.
 
-**Combining These Techniques**
-
+##### <span style="color:orange">Combining These Techniques</span>
 When planning and prioritizing, you can combine these techniques to get a well-rounded view of what needs to be done and when. For example:
 
 1. **Assess Impact and Urgency**:

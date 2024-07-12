@@ -41,7 +41,7 @@ You must complete the smaller things in order to complete the larger things up t
 
 **Background:** Epics are fundamental components in agile development methodologies, serving as a high-level framework to organize and prioritize the development process. They stem from the overarching vision of the company, which is translated into actionable goals and metrics.
 
-**Definition:** An epic is essentially a large, overarching project or initiative that encompasses multiple smaller tasks or features. It represents a significant chunk of work that contributes towards a specific goal but is too substantial to be completed in a single sprint (typically a 2-4 week period used in agile methodologies).
+**Definition:** *An epic is essentially a large, overarching project or initiative that encompasses multiple smaller tasks or features*. It represents a significant chunk of work that contributes towards a specific goal but is too substantial to be completed in a single sprint (typically a 2-4 week period used in agile methodologies).
 
 **Characteristics of Epics:**
 
@@ -74,6 +74,7 @@ You must complete the smaller things in order to complete the larger things up t
 ---
 
 ### Components of an Epic Spec Sheet
+#productspecsheet
 Epic spec sheets are critical documents in the product development process, especially in environments that use Agile methodologies. These documents serve as a blueprint for the entire lifecycle of an epic, ensuring all team members understand the goals, requirements, and the specifics of what needs to be built. Here’s a detailed breakdown of what goes into creating an effective epic spec sheet:
 
 
@@ -202,70 +203,7 @@ User stories and acceptance criteria are fundamental in Agile development, servi
 - **Adaptability:** Allows teams to adjust their work strategies based on actual performance versus planned estimates.
 **[Engineering flow: planning for high velocity sprints](https://www.fastcompany.com/3015928/engineering-flow-planning-for-high-velocity-sprints-part-3)**
 
-### Roadmapping
-[10 tips for creating an agile product roadmap](https://www.romanpichler.com/blog/10-tips-creating-agile-product-roadmap/)
-[Atlassian roadmaps: build, share, use, evolve](https://www.atlassian.com/agile/product-management/roadmaps)
 
-### Prioritization Techniques for Product Managers
-
-As a product manager, effective prioritization is crucial in managing the development cycle efficiently. Here’s a structured look at several prioritization methods:
-
-#### 1. **Assumption Testing**
-
-**Overview:**
-- Focuses on validating assumptions to minimize risks early in the development process.
-
-**Process:**
-- **Identify and List Assumptions:** Write down all assumptions related to the project.
-- **Risk Assessment:** Assign a risk value to each assumption (1 being the riskiest, 10 being the least risky).
-- **Importance Rating:** Rate the importance of testing each assumption (10 indicating very important).
-- **Calculate Priority Score:** Add the risk and importance scores for each assumption.
-- **Prioritization:** Sort the assumptions by their total scores, starting with the highest (indicating high risk and high importance).
-
-#### 2. **The BUC Method**
-
-**Overview:**
-- Balances business benefits, user benefits, and costs to determine priority.
-
-**Process:**
-- **Score Dimensions:**
-    - **Business Benefits:** Rate how much the task will benefit the business on a scale of 1 to 10.
-    - **User Benefits:** Rate the potential benefits to the users on a scale of 1 to 10.
-    - **Cost:** Rate the cost implications of implementing the task on a scale of 1 to 10.
-- **Calculate Net Score:** Add the scores for business and user benefits, then subtract the cost.
-- **Prioritization:** List tasks in descending order of their net scores, with tasks having the highest scores prioritized.
-
-#### 3. **The MOSCOW Method**
-
-**Overview:**
-- Categorizes tasks into four buckets based on necessity: Must, Should, Could, and Won't.
-
-**Process:**
-- **Categorize Tasks:**
-    - **Must Have:** Tasks that are essential for the launch or critical functionality.
-    - **Should Have:** Important but not vital tasks, should be included if possible.
-    - **Could Have:** Desirable tasks that are not necessary; can be included if it enhances the product without causing delays.
-    - **Won't Have:** Tasks that are least critical and can be excluded from the current scope.
-- **Execution Order:** Start with 'Must Have' tasks to ensure critical functionalities are developed first.
-
-### Tips for Effective Prioritization
-- **Regular Reviews:** Prioritization is an ongoing process. Regularly review and adjust priorities as new information becomes available or as project dynamics change.
-- **Stakeholder Alignment:** Ensure that priorities align with broader business goals and are communicated clearly to all stakeholders.
-- **Flexibility:** Be prepared to adapt your prioritization as project requirements and external conditions evolve.
-
-### Conclusion
-
-Each prioritization method offers different advantages and can be suited for various scenarios depending on the project's specific needs. Product managers should choose the method that best aligns with their strategic goals and project requirements, ensuring that resources are allocated efficiently to maximize product success.
-
-
-Communication
-[The introverted product manager](https://www.productplan.com/learn/the-introverted-product-manager/)
-[The product manager Vs The engineering manager](https://www.huffpost.com/entry/the-product-manager-vs-th_b_7733156)
-[Product Manager: 5 ways you can make the life of an engineer better](https://mtp2017.wpenginepowered.com/product-managers-5-ways-you-can-make-an-engineers-job-easier/)
-[Can a product manager be effective without product design skills?](https://www.quora.com/Can-a-product-manager-be-effective-without-product-design-skills)
-[4 design skills every PM should have](https://mtp2017.wpenginepowered.com/4-design-skills-every-product-manager-should-have/)
-[How to Communicate Effectively at Work With Your Boss](https://blog.hubspot.com/marketing/communicating-effectively-with-your-boss)
-[Front end Vs Back end](https://learn.onemonth.com/frontend-vs-backend-developers/)
 
 ### Product vision & Strategy
 1. You can't create any good products or lead any company well without having clear, defined, transparent goals

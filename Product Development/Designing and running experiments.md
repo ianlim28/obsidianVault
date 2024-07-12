@@ -1,5 +1,5 @@
 ### Understanding MVP (Minimum Viable Product)
-
+#mvp
 **Origins and Definition:**
 - **Introduction:** The term 'MVP' was first introduced by Eric Ries in the context of the Lean Startup framework.
 - **Definition:** "A Minimum Viable Product is that version of a new product which allows a team to collect the maximum amount of validated learning about customers with the least effort."

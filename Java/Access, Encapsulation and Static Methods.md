@@ -1,4 +1,4 @@
-#static 
+#static #polymorphism
 Static methods are methods that belong to an entire class, not a specific object of the class. Static methods are called using the class name and the `.` operator.
 
 **Calling Static Methods**
@@ -172,7 +172,7 @@ public class Main {
 }
 ```
 
-**Super Constructor**
+##### <span style="color:orange">Super Constructor</span>
 #super 
 In Java, the super keyword is used to refer to the immediate parent class object. It is used to call the constructor of the parent class and to access methods and variables of the parent class that have been overridden or hidden by the subclass.
 
@@ -244,6 +244,7 @@ public class Main {
 Another subclass: Puppy
 ```java
 public class Puppy extends Dog {
+	//instance variable
     int age;
 
     // Constructor with three parameters
@@ -253,5 +254,138 @@ public class Puppy extends Dog {
         this.age = age;
         System.out.println("Puppy constructor called");
     }
+}
+```
+
+##### <span style="color:orange">Child Classes in Arrays and ArrayLists</span>
+#Override
+```java
+//Noodle.java
+class Noodle {
+	//instance variable
+	protected double lengthInCentimeters;
+	protected double widthInCentimeters;
+	protected String shape;
+	protected String ingredients;
+	protected String texture = "brittle";
+	
+	Noodle(double lenInCent, double wthInCent, String shp, String ingr) {
+	
+		this.lengthInCentimeters = lenInCent;
+		this.widthInCentimeters = wthInCent;
+		this.shape = shp;
+		this.ingredients = ingr;
+	}
+
+	public String getCookPrep() {
+		return "Boil noodle for 7 minutes and add sauce.";
+	}
+}
+
+//Spaghetti.java
+class Spaghetti extends Noodle {
+	Spaghetti() {
+		super(30.0, 0.2, "round", "semolina flour");
+	}
+	
+	@Override
+	public String getCookPrep() {
+		return "Boil spaghetti for 8 - 12 minutes and add sauce, cheese, or oil and garlic.";
+	}
+}
+
+//ramen.java
+class Ramen extends Noodle {
+
+	Ramen() {
+	
+	super(30.0, 0.3, "flat", "wheat flour");
+	
+	}
+
+	@Override
+	public String getCookPrep() {
+		return "Boil ramen for 5 minutes in broth, then add meat, mushrooms, egg, and vegetables.";
+	}
+}
+
+//Main.java
+public class Main {
+	public static void main(String[] args) {
+		Noodle spaghetti, ramen, pho;
+		spaghetti = new Spaghetti();
+		ramen = new Ramen();
+	
+	// Iterate through the list of items:
+	Noodle[] allTheNoodles = {spaghetti, ramen, pho};
+		for (Noodle noodle:allTheNoodles) {	
+			System.out.println(noodle.getCookPrep());
+		}
+	}
+}
+```
+
+##### <span style="color:orange">Putting it all together: class extension, super, override</span>
+
+```java
+//Language.java
+public class Language{
+
+	protected String name;
+	protected int numSpeakers;
+	protected String regionsSpoken;
+	protected String wordOrder;
+	
+	public Language(String name, int numSpeakers, String regionsSpoken, String wordOrder){
+		this.name = name;
+		this.numSpeakers = numSpeakers;
+		this.regionsSpoken = regionsSpoken;
+		this.wordOrder = wordOrder;
+	}
+	
+	public void getInfo(){
+		System.out.println(name + " is spoken by " + numSpeakers + " people mainly in " + regionsSpoken + ". The language follows the word order: " + wordOrder);	
+		}
+	
+	public static void main(String[] args){
+	
+		// Language canto = new Language("Cantonese",20,"Hong Kong", "wordOrder");
+		// canto.getInfo();
+		// Mayan kiche = new Mayan("Kiche",233000);
+		// kiche.getInfo();
+		
+		SinoTibetan Mandarin = new SinoTibetan("Canto",25000);	
+		Mandarin.getInfo();
+		}
+}
+```
+
+```java
+//Mayan.java
+public class Mayan extends Language{
+
+	public Mayan(String name, int numSpeakers){
+		super(name, numSpeakers, "Central America","verb-object-subject");
+	}
+	
+	@Override
+	public void getInfo(){
+		System.out.println(this.name + " is spoken by " + this.numSpeakers + " people mainly in " + this.regionsSpoken + ".");
+		System.out.println("The language follows the word order: " + this.wordOrder);
+		System.out.println("Fun fact: " + this.name + " is an ergative language.");
+	}
+}
+```
+
+```java
+//SinoTibetan.java
+public class SinoTibetan extends Language{
+
+	public SinoTibetan(String name, int numSpeakers){
+		super(name, numSpeakers, "Asia","subject-object-verb");	  
+		if (name.contains("Chinese")){
+			this.wordOrder = "subject-verb-object";
+		}
+	}
 }
 ```

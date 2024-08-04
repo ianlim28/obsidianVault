@@ -49,9 +49,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Access, Encapsulation and Static Methods.md",
+                "file": "Java/Access, Encapsulation and Static Methods.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "07484700a1a01fb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java Errors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "accd791b660deb53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOSCH/3 minute rule.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc3e4735bff06cba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Feedback.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9dc747ea7ef83de2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
               }
             }
           }
@@ -122,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Access, Encapsulation and Static Methods.md",
+                "file": "Java/Access, Encapsulation and Static Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Access, Encapsulation and Static Methods.md",
+                "file": "Java/Access, Encapsulation and Static Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Access, Encapsulation and Static Methods.md"
+                "file": "Java/Access, Encapsulation and Static Methods.md"
               }
             }
           }
@@ -185,16 +231,19 @@
   },
   "active": "eaed08a79119687f",
   "lastOpenFiles": [
+    "Java Errors.md",
+    "Feedback.md",
+    "BOSCH/3 minute rule.md",
+    "Java Arrays.md",
+    "Java/Access, Encapsulation and Static Methods.md",
+    "Java/Access and Scope.md",
     "Java/String.md",
-    "Access, Encapsulation and Static Methods.md",
     "Loop.md",
     "Product Development/Product Prioritization - MOSCOW RICE KANO.md",
     "Java/Java Basics.md",
     "Quotes.md",
     "Thinking/Thinking Fast and Slow.md",
     "Thinking",
-    "Access and Scope.md",
-    "BOSCH/3 minute rule.md",
     "BOSCH",
     "Product Development/Customer Development phases.md",
     "Product Development/Designing and running experiments.md",
@@ -214,9 +263,6 @@
     "Screenshot 2024-06-21 at 07.53.26.png",
     "async/Browser API.md",
     "Screenshot 2024-06-18 at 08.16.22.png",
-    "Product Development/Advanced Metrics for Product Mangers.md",
-    "JS Events/Events, bubbling, delegation.md",
-    "PM Interviews/Root Cause Analysis.md",
     "PM Interviews",
     "Tech",
     "Screenshot 2024-05-03 at 08.44.33.png",

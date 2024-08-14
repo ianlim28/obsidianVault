@@ -8,101 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "58d1d96b464e4f03",
+            "id": "037e1ba011639692",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loop.md",
+                "file": "Java/Serializable.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "984ca10a4c85c02e",
+            "id": "e688f07e360633a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BOSCH/3 minute rule.md",
+                "file": "Generics.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2b6d7e05ec2bb80b",
+            "id": "80c5a2389ef267de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/String.md",
+                "file": "Tech/Command Line.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "eaed08a79119687f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Access, Encapsulation and Static Methods.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07484700a1a01fb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java Errors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "accd791b660deb53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BOSCH/3 minute rule.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc3e4735bff06cba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Feedback.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9dc747ea7ef83de2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Access, Encapsulation and Static Methods.md",
+                "file": "Generics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Access, Encapsulation and Static Methods.md",
+                "file": "Generics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Access, Encapsulation and Static Methods.md"
+                "file": "Generics.md"
               }
             }
           }
@@ -229,46 +171,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eaed08a79119687f",
+  "active": "e688f07e360633a9",
   "lastOpenFiles": [
-    "Java Errors.md",
-    "Feedback.md",
-    "BOSCH/3 minute rule.md",
-    "Java Arrays.md",
     "Java/Access, Encapsulation and Static Methods.md",
-    "Java/Access and Scope.md",
-    "Java/String.md",
-    "Loop.md",
-    "Product Development/Product Prioritization - MOSCOW RICE KANO.md",
-    "Java/Java Basics.md",
-    "Quotes.md",
-    "Thinking/Thinking Fast and Slow.md",
-    "Thinking",
-    "BOSCH",
-    "Product Development/Customer Development phases.md",
-    "Product Development/Designing and running experiments.md",
-    "Product Development/LinkedIn Product Development Tips.md",
-    "Product Development/Metrics for Product Managers - Defining success and measuring results.md",
-    "Product Development/Product Lifecycle Stages.md",
-    "Metrics by Industry.md",
-    "How to prepare for PM interviews with Top Tech Companies.md",
-    "How to prompt.md",
-    "APIs.md",
-    "Java",
-    "PM Interviews/Interviewing Tips for a product manager role.md",
-    "Product Development/Conceptualising the solution.md",
-    "Product Development/Building the Product - Project Management for PMs.md",
-    "Business Case - SME survival.md",
+    "Generics.md",
+    "Java/Serializable.md",
+    "PM Interviews/How to prepare for PM interviews with Top Tech Companies.md",
     "Screenshot 2024-06-21 at 07.53.26 1.png",
     "Screenshot 2024-06-21 at 07.53.26.png",
-    "async/Browser API.md",
     "Screenshot 2024-06-18 at 08.16.22.png",
-    "PM Interviews",
-    "Tech",
     "Screenshot 2024-05-03 at 08.44.33.png",
     "Screenshot 2024-04-26 at 07.29.31.png",
     "Screenshot 2024-04-21 at 14.12.08.png",
     "Screenshot 2023-10-16 at 07.50.40.png",
+    "HTML CSS/Todo List 100 days JS.md",
+    "HTML CSS/Transition.md",
+    "HTML CSS/Transform.md",
+    "Thinking/Quotes.md",
+    "Neat JS Tricks/Naming Convention in JS.md",
+    "HTML CSS/Display.md",
+    "HTML CSS/Custom Data Attribute.md",
+    "PM Interviews/Product Management Articles.md",
+    "PM Interviews/Metrics by Industry.md",
+    "Java/Java Input Output.md",
+    "Java/Java Basics.md",
+    "Java/Loop.md",
+    "OOP JS/Primitive & Reference Type.md",
+    "Java/Access and Scope.md",
+    "BOSCH/3 minute rule.md",
+    "Tech/Command Line.md",
+    "Java/String.md",
+    "Java/Java Errors.md",
+    "Thinking/Feedback.md",
+    "Java/Java Arrays.md",
+    "Product Development/Product Prioritization - MOSCOW RICE KANO.md",
+    "Thinking/Thinking Fast and Slow.md",
+    "Thinking",
+    "BOSCH",
+    "Java",
+    "PM Interviews",
+    "Tech",
     "Product Development",
     "Redux",
     "ChatGPT",

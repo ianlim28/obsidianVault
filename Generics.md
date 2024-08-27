@@ -1,4 +1,7 @@
 #generics #interface #replacer 
+##### <span style="color:orange">What Are Generic Type Parameters?</span>
+• **Generic Type Parameters** are placeholders for types that you can specify when you create an instance of a generic class, implement a generic interface, or invoke a generic method.
+
 
 ```java
 public class Box <T> {  
@@ -13,7 +16,6 @@ public class Box <T> {
     return this.data;  
   }    
 }
-
 
 
 // creating a generic class
@@ -175,3 +177,164 @@ public class Main {
 • **Method Signature**: The method takes a single argument object of type T and returns a boolean.
 
 • **Logic**: The method checks if the passed object is an instance of the Double class using the instanceof operator.
+
+##### <span style="color:orange">Multiple type parameters</span>
+
+```java
+public class Container<T, S> {
+  private T item1;
+  private S item2;
+
+  public Container(T item1, S item2) {
+    this.item1 = item1;
+    this.item2 = item2;
+  }
+
+  public T getItem1() {
+    return this.item1;
+  }
+
+  public S getItem2() {
+    return this.item2;
+  }
+}
+```
+
+• **Generic Type Parameters**:
+
+• T and S are type parameters that allow you to specify the types of the two items when creating an instance of Container.
+• These can be any types—T could be an Integer and S could be a String, for example.
+
+```java
+public class Main {
+    public static void main(String[] args) {
+        // Creating a Container to hold an Integer and a String
+        Container<Integer, String> myContainer = new Container<>(42, "Hello, World!");
+
+        // Accessing the items
+        Integer item1 = myContainer.getItem1();
+        String item2 = myContainer.getItem2();
+
+        // Output the items
+        System.out.println("Item 1: " + item1);  // Output: Item 1: 42
+        System.out.println("Item 2: " + item2);  // Output: Item 2: Hello, World!
+    }
+}
+```
+
+##### <span style="color:orange">Upper Bounds</span>
+An upper bound will restrict a generic type to be a specific type or any type that `extends`
+
+```java
+public class Box <T extends Number> {  
+  private T data;  
+}
+
+Box<Integer> intBox = new Box<>(2);  // Valid type argument  
+Box<Double> doubleBox = new Box<>(2.5);  // Valid type argument  
+Box<String> stringBox = new Box<>("hello");  // Error
+```
+
+Example
+```java
+//Main.java
+public class Main {
+	public static void main(String[] args) {
+		SchoolPerson person = new SchoolPerson("Peter");
+		Bus<SchoolPerson> busWPerson = new Bus<>(person);
+		busWPerson.printRider();	
+	}
+}
+```
+
+```java
+//Bus.java
+public class Bus<T extends SchoolPerson> {
+
+	private T rider;
+	
+	public Bus(T rider) {
+		this.rider = rider;
+	}
+	
+	public void setRider(T rider) {
+		this.rider = rider;
+	}
+	
+	public T getRider() {
+		return this.rider;
+	}
+	
+	public void printRider() {
+		System.out.println(rider.toString());
+	}
+}
+```
+
+```java
+//SchoolPerson.java
+public class SchoolPerson {
+
+	private String name;
+	
+	public SchoolPerson(String name) {
+		this.name = name;
+	}
+	
+	public void setName(String name) {
+		this.name = name;
+	}
+	
+	public String getName() {
+		return this.name;
+	}
+	
+	public String toString() {
+		return "SchoolPerson (name = "+ this.name + ")";
+	}
+}
+```
+
+
+##### <span style="color:orange">Wildcards</span>
+We can make our code even more general when we don’t need the more strict type checking of using type parameters by using _wildcards_.
+```java
+public class Util {  
+  public static void printBag(Bag<?> bag) {  
+    System.out.println(bag.toString());  
+  }  
+}  
+Bag<String> myBag1 = new Bag("Hello");  
+Bag<Integer> myBag2 = new Bag(23);  
+Util.printBag(myBag1);  // Hello  
+Util.printBag(myBag2);  // 23
+```
+
+In general, we should use type parameters, when we have a relationship between the type of arguments and the return type.
+
+```java
+public static <T> Bag<T> getBag(Bag<T> bag) {  
+  return bag;  
+}
+```
+
+
+##### <span style="color:orange">Wildcard Lower Bounds</span>
+A lower bound wildcard restricts the wildcard to a class or interface and any of its parent types.
+```java
+public class Util {  
+  public static void getBag(Bag<? super Integer> bag) {  
+    return bag;  
+  }  
+}
+```
+In the example above, we used the `super` keyword to restrict the argument to `getBag()` to be a `Bag` of `Integer`, `Number`, or `Object`. If a call to `getBag()` with `Bag<Double>` is made, it would result in an error because `Double` is not an `Integer` or one of its parents.
+
+- They cannot be used with generic type parameters, only wildcards.
+- A wildcard cannot have both a lower bound and an upper bound. In this case, it’s best to use a generic type parameter.
+- An upper bound wildcard should be used when the variable is being used to serve some type of data to our code.
+- A lower bound wildcard should be used when the variable is receiving data and holding it for later use.
+- When a variable that serves data is used and only uses `Object` methods, an unbounded wildcard is preferred.
+- When a variable needs to serve data and store data for later use, a wildcard should not be used (use a type parameter instead).
+
+
